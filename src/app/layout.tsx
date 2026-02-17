@@ -3,6 +3,7 @@ import Header from './components/layout/header'
 import Footer from './components/layout/footer/Footer'
 import Providers from '../providers/Provider'
 import { Metadata } from 'next'
+import CookieConsent from './components/shared/CookieConsent'
 
 export const metadata: Metadata = {
   title: 'HABB Lanka - Sri Lanka\'s Digital Engineering & Software Solutions Partner',
@@ -54,6 +55,7 @@ export default function RootLayout({
             {/* Ripple effect (non-interactive so it doesn't block the button) */}
             <div className="absolute inset-0 rounded-full bg-green-400 opacity-20 animate-ping pointer-events-none"></div>
           </div>
+          <CookieConsent />
         </Providers>
       </body>
     </html>
