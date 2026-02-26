@@ -6,8 +6,8 @@ import Faq from "../../components/home/faq";
 import WatermarkLogo from "../../components/shared/watermark-logo";
 
 export const metadata: Metadata = {
-    title: "About HABB Lanka | Bridging Vision and Reality",
-    description: "Learn about HABB Lanka's mission, our creative team, and the milestones that define our excellence in digital engineering.",
+    title: "About HABB | Bridging Vision and Reality",
+    description: "Learn about HABB's mission, our creative team, and the milestones that define our excellence in digital engineering.",
 };
 
 export default function AboutPage() {
@@ -20,7 +20,7 @@ export default function AboutPage() {
                         <span className="lanka-accent-pill mb-4 px-4 py-2 uppercase">Our Story</span>
                         <h1 className="mb-6">Bridging Vision & Reality</h1>
                         <p className="text-lg mb-8 text-dark_black/70 dark:text-white/70">
-                            HABB Lanka was founded on the principle that geographical boundaries should never limit technological innovation. We serve as the bridge between global ideas and technical execution.
+                            HABB was founded on the principle that geographical boundaries should never limit technological innovation. We serve as the bridge between global ideas and technical execution.
                         </p>
                     </div>
                     <div className="flex-1 relative">

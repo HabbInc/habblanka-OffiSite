@@ -12,7 +12,7 @@ const headerData = [
 const footerData = {
     brand: {
         name: "HABB",
-        tagline: "Your Success, Engineered by HABB Lanka — Dream Beyond Borders. Build Beyond Limits.",
+        tagline: "Your Success, Engineered by HABB — Dream Beyond Borders. Build Beyond Limits.",
         socialLinks: [
             {
                 icon: "/images/home/footerSocialIcon/facebook.svg",
@@ -89,7 +89,7 @@ const footerData = {
             "+94 71 0111 484"
         ]
     },
-    copyright: "©2026 HABB Lanka (PVT) LTD. All Rights Reserved"
+    copyright: "©2026 HABB. All Rights Reserved"
 };
 
 export const GET = async () => {

@@ -47,7 +47,7 @@ const Footer = () => {
               height={17}
               className='rounded-sm shadow-sm'
             />
-            <span className='font-bold text-dark_black dark:text-white'>HABB Lanka - Sri Lanka's Digital Engineering Partner</span>
+            <span className='font-bold text-dark_black dark:text-white'>HABB - Sri Lanka's Digital Engineering Partner</span>
           </div>
           <p className='text-center text-sm text-dark_black/70 dark:text-white/70'>
             Based in Sri Lanka | Delivering global-scale digital solutions

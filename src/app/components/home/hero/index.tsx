@@ -57,7 +57,7 @@ function HeroSection() {
                                 />
                             </h1>
                             <p className='max-w-2xl text-dark_black/60 dark:text-white/60'>
-                                HABB Lanka is a Sri Lanka-based digital engineering partner specialising in designing and building secure, scalable products — web, mobile, cloud and AI. With a focus on reliability, performance and rapid time-to-market, we deliver production-ready software solutions to clients worldwide.
+                                HABB is a Sri Lanka-based digital engineering partner specialising in designing and building secure, scalable products — web, mobile, cloud and AI. With a focus on reliability, performance and rapid time-to-market, we deliver production-ready software solutions to clients worldwide.
                             </p>
                         </div>
 

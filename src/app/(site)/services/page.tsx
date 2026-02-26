@@ -5,7 +5,7 @@ import Brand from "../../components/home/brand";
 import WatermarkLogo from "../../components/shared/watermark-logo";
 
 export const metadata: Metadata = {
-    title: "Premium Digital Services | HABB Lanka",
+    title: "Premium Digital Services | HABB",
     description: "Explore our world-class digital engineering services from Web & Mobile development to AI and Cloud solutions.",
 };
 
