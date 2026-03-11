@@ -89,7 +89,7 @@ const footerData = {
             "+94 71 0111 484"
         ]
     },
-    copyright: "©2026 HABB. All Rights Reserved"
+    copyright: "© 2026 HABB Inc. All Rights Reserved"
 };
 
 export const GET = async () => {
